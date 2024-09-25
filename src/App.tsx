@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   let [count, setCount] = useState(0);
 
-  let maxValue = 5;
+  let maxValue = 10;
 
 
   const inc = () => {
